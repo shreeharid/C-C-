@@ -1,0 +1,7 @@
+//The program uses the concept of class and objects with constructor.
+1. Declare a class for student information and mention the name, usn, m1, m2,    m3, total, percentage as private.
+2. In public declare constructor and ask for the inputs mentioned in    constructor.
+3. Declare calculate and showdata function.
+4. In main function
+	1. Ask for number of students.
+	2. Then call for calcualte and showdata functions.

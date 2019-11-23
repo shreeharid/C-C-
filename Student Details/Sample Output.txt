@@ -1,0 +1,62 @@
+Enter the number of students :
+3
+Enter the Information of student 1
+Enter the student name :
+Charlie
+Enter the usn of the student :
+3442
+Enter the marks of the  three subjects :
+20
+21
+24
+Enter the Information of student 2
+Enter the student name :
+Jhon
+Enter the usn of the student :
+3456
+Enter the marks of the  three subjects :
+19
+18
+14
+Enter the Information of student 3
+Enter the student name :
+Kumar
+Enter the usn of the student :
+3214
+Enter the marks of the  three subjects :
+22
+24
+25
+||||||||||||||||||||||||||||||||||||
+        The student name is : Charlie
+        The student usn is : 3442
+        The student marks for
+        m1 : 20
+        m2 is :21
+        m3 is :24
+        The Total is : 65
+The percentage is :21.6667%
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||
+        The student name is : Jhon
+        The student usn is : 3456
+        The student marks for
+        m1 : 19
+        m2 is :18
+        m3 is :14
+        The Total is : 51
+The percentage is :17%
+||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||
+        The student name is : 3214
+        The student usn is : 3214
+        The student marks for
+        m1 : 22
+        m2 is :24
+        m3 is :25
+        The Total is : 71
+The percentage is :23.6667%
+||||||||||||||||||||||||||||||||||||
+
+Process returned 0 (0x0)   execution time : 130.025 s
+Press any key to continue.
