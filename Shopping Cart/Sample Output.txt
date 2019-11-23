@@ -1,0 +1,58 @@
+*********SHOPING CART*********
+
+Item code       Quantity        Price
+1               10              100
+2               12              200
+3               14              150
+4               21              250
+
+Please enter your choice:
+
+ 1: add item
+ 2:delete item
+ 3:display info
+ 4:leave cart:
+1
+
+Enter the code and quantity of the item to be added to your cart:1 2
+
+ the item with code1 is added to the cart
+
+ item code       quantity       cost
+1               2               200.00
+ there are 1 items in your cart...
+
+
+
+Item code       Quantity        Price
+1               8               100
+2               12              200
+3               14              150
+4               21              250
+
+Please enter your choice:
+
+ 1: add item
+ 2:delete item
+ 3:display info
+ 4:leave cart:
+2
+
+ last item from your cart deleted
+
+ there are 0 items in your cart...
+
+
+
+Item code       Quantity        Price
+1               10              100
+2               12              200
+3               14              150
+4               21              250
+
+Please enter your choice:
+
+ 1: add item
+ 2:delete item
+ 3:display info
+ 4:leave cart:
