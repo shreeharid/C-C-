@@ -1,0 +1,41 @@
+Enter name :
+Charlie
+Enter Department :
+EC
+Enter empid :
+3442
+Enter name :
+John
+Enter Department :
+EC
+Enter empid :
+3552
+
+Department : EC
+Bonus : 5000
+
+Department : EC
+Bonus : 3000
+
+No. of supervisors : 100
+
+ Name : Charlie
+
+ Department : EC
+
+ No. of employees : 100
+
+ Bonus : 5000
+
+No. of salesmen : 50
+
+ Name : John
+
+ Department : EC
+
+ No. of employees : 50
+
+ Bonus : 3000
+
+Process returned 0 (0x0)   execution time : 24.971 s
+Press any key to continue.

@@ -1,0 +1,11 @@
+//This program uses the protected access specifier to form base and derived     classes.
+1. Declare the base class Manager with name, department, employee ID, bonus as protected variables and in piblic declare getdata(), setbonus(), 
+display().
+2. Declare prodman as derived class from the base class with a noOfsup as private variable and it has manageprod() function in public similarly declare a derived class for salesman.
+3. In main function
+	1. Create an object of class prodman.
+	2. Create an object of class salesman.
+	3. Then by the help of getdata() function take the input data from 	   the user.
+	4. By setbonus() set the bonus for both the objects.
+	5. Then set the number of supervisors and salesmen by the help of 	   manageprod() and managesales().
+4. The infor,ation is displayed by the display() defined in base class and called in the derived class. 
