@@ -1,0 +1,15 @@
+Enter the complex number :
+2
+3
+The first complex number is :
+2+3i
+Enter the complex number :
+4
+5
+The second complex number is :
+4+5i
+The sum of two complex numbers is :
+6+8i
+
+Process returned 0 (0x0)   execution time : 9.424 s
+Press any key to continue.

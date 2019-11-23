@@ -1,0 +1,8 @@
+//This program uses the flexiblity of calling a function with objects as arguments.
+1. Declare a class Complex with real and imaginary variables as private.
+2. Declare in public function getdata for taking real and imaginary values,    showdata to display the complex number and add function to add the two    complex numbers.
+3. In main function
+	1. Declare three objects of class Complex.
+	2. Ask for the complex number values to the user.
+	3. By showdata() show both the complex numbers.
+	4. By add() add both the complex numbers the by showdata() show the 	   addition.
