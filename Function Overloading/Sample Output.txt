@@ -1,0 +1,12 @@
+Enter the radius :
+5
+Enter the length and breadth :
+6 4
+Enter the height and base :
+8 7
+Area of circle : 78.5
+Area of rectangle  : 24
+Area of triangle  : 28
+
+Process returned 0 (0x0)   execution time : 108.595 s
+Press any key to continue.

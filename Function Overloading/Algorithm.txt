@@ -1,0 +1,8 @@
+1. Declare a class area with ar1, ar2 and ar3 as the private variables for    area of circle, rectangle, triangle respectively.
+2. In public specifier declare a function are1 with one variable for circle    area, one with three variables for traingle, one with two variables for       rectangle also declare a display function to diaplay all areas.
+3. In main function 
+	1. Create an object of class area.
+	2. Ask for values of radius, length, breadth, base and height 	   vairables.
+	3. Send the parameters to the function are.
+	4. Call for display function.
+	
