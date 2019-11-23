@@ -1,0 +1,9 @@
+//The program uses the concept of Array of structures
+1. Declare a structure account globally with account number as int, name as string, account type as char, balance as float.
+2. Declare an array of type structure account and initialse it.
+3. Initialse and declare the fuctions for Deposit_ammount, Withdraw_ammount,Balance_Inquiry.
+4. In main function
+	1. Ask for the user account number if it is present in the array declared then show the information of the account holder.
+	2. Then show the options that can be done by the user.
+	3. By the help of switch statement and the choice selected by then user carry on with the operations.
+5. Loop through the options with the use of goto or while statements for the repetition of the operational part of the program.
