@@ -1,0 +1,11 @@
+Enter the asset number :7
+Enter the asset name :Bag
+Enter the asset price :1000
+Do you want to add another asset :y
+Enter the asset number :3
+Enter the asset name :Book
+Enter the asset price :30
+Do you want to add another asset :n
+*******Thank You********
+Process returned 0 (0x0)   execution time : 97.307 s
+Press any key to continue.

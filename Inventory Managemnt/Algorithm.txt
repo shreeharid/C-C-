@@ -1,0 +1,9 @@
+//This program uses concept of file handling for management of   inventory.
+1. Declare a structure that can hold information of the asset like    asset number, asset name, asset price and FILE *p pointer.
+2. In main function
+	1. Create a variable of type inventory.
+	2. Open a file with suitable extension.
+	3. Ask for inputs for asset number, asset name, asset price.
+	4. Write the information in the file opened earlier.
+	5. Ask user for the looping condition if yes loop if not exit.
+3. The inventory.txt has the information of the asset as entered.

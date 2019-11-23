@@ -1,0 +1,6 @@
+Asset Number : 7
+Asset Name : Bag
+Asset Price : 1000.00
+Asset Number : 3
+Asset Name : Book
+Asset Price : 30.00
