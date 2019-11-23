@@ -1,0 +1,13 @@
+//Simple calculator 
+//The concepts used to implement this program are of pointer to function
+1. Functions for addition, subtraction, multiplication, division and display are initialised and declared.
+2. The return type of these functions can be float or int.
+3. In the main function 
+	1. Declare the two numbers, answer variable, character for choice.
+	2. Declare two function pointers (one for float type and another for void).
+	3. Take the input variable values (two numbers and choice).
+	4. Start switch statement with the choice.
+	5. Assign the pointer to the fuction name based on the choice made.
+	6. Store the returned value in variable of answer.
+	7. display the answer using second pointer.
+	8. Use of goto or while statement can help to loop the program. 
